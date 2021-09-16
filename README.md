@@ -4,18 +4,18 @@ Peer to peer car ride sharing
 
 1. Driver will register with 
 	driving license # and/or (passport #)?, name —> Private key —> Public key 
-        address
+        address?
 
 2. Driver will register car with
         Tittle 
-	Validate driver’s Public key with tittle’s name and driving license —> driver’s Public key     match 
+	Validate driver’s Public key with tittle’s name and driving license —> driver’s Public key must match 
 	(tittle digitized ownership must match car insurance digitized ownership)?
-	driving license, plate, model, year —> Private key —> Public key
+	driver license, plate, (model, year) part of the key? —> Private key —> Public key
         and/or (model, year)?
 
 3. User will register 
 	ID/passport #, name —> Private key —> Public key
-	address
+	address?
 
 4. Driver post rides 
 	date/time or anytime
