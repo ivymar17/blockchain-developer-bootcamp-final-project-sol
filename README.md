@@ -8,7 +8,8 @@ Peer to peer car ride sharing
 
 2. Driver will register car with
         Tittle 
-	Validate driver’s Public key with tittle’s name and driving license —> driver’s Public key must match                                                          (tittle digitized ownership must match car insurance digitized ownership)?
+	Validate driver’s Public key with tittle’s name and driving license —> driver’s Public key must match                                                         
+	(tittle digitized ownership must match car insurance digitized ownership)?
 	driver license, plate, (model, year) part of the key? —> Private key —> Public key
         and/or (model, year)?
 
